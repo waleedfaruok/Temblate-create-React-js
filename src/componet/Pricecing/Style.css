@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pricin{
+    background-color: #ddd;
+    margin:50px 0;
+    padding: 50px 0;
+}
+
+.row-peicing{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
+    gap: 5px;
+}
+.prod{
+    text-align: center;
+    background-color: white;
+    padding: 20px 0;
+}
+.prod i{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+    font-size: 20px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin: 10px auto;
+
+}
+.prod p{
+    margin: 15px 0;
+    font-size: 14px;
+    color: gray;
+}
+.prod .pd{
+    margin: 15px 0;
+    text-transform: capitalize;
+  color: black;
+} 
+.dolr h1{
+ font-size: 35px; 
+}
+.prod button{
+    background: none;
+    border: none;
+    outline: none;
+    color: white;
+    background-color:black;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-transform: capitalize;
+    user-select: none;
+    transition: .3s ease-in-out;
+}
+.prod button:hover{
+    opacity: .7;
+}
+.pro{
+    text-transform: capitalize;
+    font-size: 25px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    position: relative;
+}
+
+.pro::before{
+content:'';
+position: absolute;
+bottom:0;
+left: -10px;
+height: 100%;
+width: 4px;
+background-color: orange;
+}

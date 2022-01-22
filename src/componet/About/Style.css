@@ -1,0 +1,142 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.working{
+margin: 40px auto;
+}
+.rowe{
+    display: flex;
+    gap: 10px;
+    margin-left: 100px;
+}
+@media(max-width:567px){
+    .rowe{
+        flex-direction: column;
+        margin: 0;
+    }
+}
+@media(max-width:767px){
+    .rowe{
+        flex-direction: column;
+        margin: 0;
+    }
+}
+@media(max-width:991px){
+    .rowe{
+        flex-direction: column;
+        margin: 0;
+    }
+}
+.about{
+    margin-left: 110px;
+    margin-top: 20px;
+    font-size:25px;
+    font-weight: bold;
+    position: relative;
+}
+@media(max-width:567px){
+    .about{
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+}
+@media(max-width:767px){
+    .about{
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+}
+@media(max-width:991px){
+    .about{
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+}
+.about::before{
+  content: "";
+  top: -5px;
+  left: -10px;
+  position: absolute;
+  height: 100%;
+  width: 5px;
+  background-color: orange;
+  display: block;
+}
+
+.imge img{
+    width: 500px;
+    height: 250px;
+    display: block;
+    box-shadow: 3px 0 5px black;
+}
+@media(max-width:567px){
+    .imge img{
+       width: 100%;
+       height: 100%;
+    }
+}
+@media(max-width:767px){
+    .imge img{
+        width: 100%;
+        height: 100%;
+     }
+}
+@media(max-width:991px){
+    .imge img{
+        width: 100%;
+        height: 100%;
+     }
+}
+.work{
+    margin-top: 80px;
+}
+@media(max-width:567px){
+    .work{
+        margin:0;
+    }
+}
+@media(max-width:767px){
+    .work{
+        margin:0;
+    
+    }
+}
+@media(max-width:991px){
+    .work{
+        margin:0;
+    
+    }
+}
+.work h1{
+    width: 300px;
+    line-height: 30px;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.work p{
+    text-transform: capitalize;
+    font-size: 14px;
+    color: grey;
+    line-height: 20px;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+@media(max-width:567px){
+    .work p{
+        width: 300px;
+    }
+}
+.work button{
+    background: none;
+    border: none;
+    color: wheat;
+    text-transform: capitalize;
+    outline: none;
+    padding: 10px 20px;
+    background-color: orange;
+    cursor: pointer;
+    margin: 10px 0;
+}

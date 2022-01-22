@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+.img{
+    background-image: url('/public/image/Home5.jpg');
+    width: 100%;
+    height: 600px;
+    display: block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+.home{
+  position: absolute;
+  top: 50%;
+  left: 35%;
+  transform: translate(-50%,-50%);
+}
+.home h1{
+    font-size: 40px;
+    width: 250px;
+    color: white;
+}
+.home p{
+    color:orange;
+    font-size: 20px;
+    width: 200px;
+}
+
+.home button{
+  background: none;
+  border: none;
+  outline: none;
+  color: white;
+  text-transform: capitalize;
+  background-color: orange;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: .3s ease-in-out;
+}
+.home button:hover{
+    opacity: .5;
+}

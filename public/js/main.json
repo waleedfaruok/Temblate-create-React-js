@@ -1,0 +1,143 @@
+{
+"about":[
+    {
+    "id":1,
+    "img":"image/Home2.jpg",
+    "title":"we will provid you the best work which you drermet for",
+    "address":"welc htdn jsyd jkjdu judk kiosde boy posrt modrt poet jof welc htdn jsyd jkjdu judk kiosde boy posrt modrt poet jofwelc htdn jsyd jkjdu judk kiosde boy posrt modrt poet jof"
+    }
+],
+"serefer":[
+       {
+           "id":1,
+           "icon":"fas fa-box",
+           "titlee":"buliding construction",
+           "addres":"loreme ipose dolor sit amet consecterur adipisicing"
+       },
+       {
+        "id":2,
+        "icon":"fas fa-business-time",
+        "titlee":"buliding construction",
+        "addres":"loreme ipose dolor sit amet consecterur adipisicing"
+    },
+    {
+        "id":3,
+        "icon":"fas fa-bullhorn",
+        "titlee":"buliding construction",
+        "addres":"loreme ipose dolor sit amet consecterur adipisicing"
+    },
+    {
+        "id":4,
+        "icon":"fas fa-bread-slice",
+        "titlee":"buliding construction",
+        "addres":"loreme ipose dolor sit amet consecterur adipisicing"
+    },
+    {
+        "id":5,
+        "icon":"fas fa-boxes",
+        "titlee":"buliding construction",
+        "addres":"loreme ipose dolor sit amet consecterur adipisicing"
+    },
+    {
+        "id":6,
+        "icon":"fas fa-border-none",
+        "titlee":"buliding construction",
+        "addres":"loreme ipose dolor sit amet consecterur adipisicing"
+    },
+    {
+        "id":7,
+        "icon":"fas fa-border-none",
+        "titlee":"buliding construction",
+        "addres":"loreme ipose dolor sit amet consecterur adipisicing"
+    },
+    {
+        "id":8,
+        "icon":"fas fa-bowling-ball",
+        "titlee":"buliding construction",
+        "addres":"loreme ipose dolor sit amet consecterur adipisicing"
+    }
+],
+"Projects":[
+    {
+        "id":1,
+        "imges":"image/Home6.jpg",
+        "tit":"dream home",
+        "disghin":"design,construction",
+        "icones":"fas fa-plus"
+    },
+    {
+        "id":2,
+        "imges":"image/Home7.jpg",
+        "tit":"dream home",
+        "disghin":"design,construction",
+        "icones":"fas fa-plus"
+    },
+    {
+        "id":3,
+        "imges":"image/Home6.jpg",
+        "tit":"dream home",
+        "disghin":"design,construction",
+        "icones":"fas fa-plus"
+    },
+    {
+        "id":4,
+        "imges":"image/Home2.jpg",
+        "tit":"dream home",
+        "disghin":"design,construction",
+        "icones":"fas fa-plus"
+    },
+    {
+        "id":5,
+        "imges":"image/Home4.jpg",
+        "tit":"dream home",
+        "disghin":"design,construction",
+        "icones":"fas fa-plus"
+    },
+    {
+        "id":6,
+        "imges":"image/Home3.jpg",
+        "tit":"dream home",
+        "disghin":"design,construction",
+        "icones":"fas fa-plus"
+    }
+],
+"pricin":[
+    {
+        "id":1,
+        "icon":"fas fa-archway",
+        "title":"basic plan",
+        "desgin":"interior desgin",
+        "shiment":"refurbishment",
+        "supply":"material supply",
+        "ance":"maintenance",
+        "support":"24/7 support"
+    },
+    {
+        "id":2,
+        "icon":"fab fa-app-store-ios",
+        "title":"premium plan",
+        "desgin":"interior desgin",
+        "shiment":"refurbishment",
+        "supply":"material supply",
+        "ance":"maintenance",
+        "support":"24/7 support"
+    },
+    {
+        "id":3,
+        "icon":"fas fa-arrows-alt",
+        "title":"ultimate plan",
+        "desgin":"interior desgin",
+        "shiment":"refurbishment",
+        "supply":"material supply",
+        "ance":"maintenance",
+        "support":"24/7 support"
+    }
+]
+}
+
+
+
+
+
+
+
