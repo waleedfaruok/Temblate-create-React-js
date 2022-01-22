@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Temblate-create-React-js/static/css/main.d00d34ef.css",
+    "main.js": "/Temblate-create-React-js/static/js/main.7ab5a9c6.js",
+    "static/media/Home5.jpg": "/Temblate-create-React-js/static/media/Home5.26bf832e9fda51d4e06d.jpg",
+    "index.html": "/Temblate-create-React-js/index.html",
+    "main.d00d34ef.css.map": "/Temblate-create-React-js/static/css/main.d00d34ef.css.map",
+    "main.7ab5a9c6.js.map": "/Temblate-create-React-js/static/js/main.7ab5a9c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d00d34ef.css",
+    "static/js/main.7ab5a9c6.js"
+  ]
+}
